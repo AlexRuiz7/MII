@@ -1,9 +1,12 @@
 [submodule "SSBW"]
 	path = SSBW
 	url = git@github.com:AlexRuiz7/SSBW.git
+	branch = master
 [submodule "EV"]
 	path = EV
 	url = git@github.com:AlexRuiz7/EV.git
+	branch = master
 [submodule "GIDM"]
 	path = GIDM
 	url = git@github.com:AlexRuiz7/GIDM.git
+	branch = master
