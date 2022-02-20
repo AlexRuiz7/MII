@@ -1,0 +1,9 @@
+[submodule "SSBW"]
+	path = SSBW
+	url = git@github.com:AlexRuiz7/SSBW.git
+[submodule "EV"]
+	path = EV
+	url = git@github.com:AlexRuiz7/EV.git
+[submodule "GIDM"]
+	path = GIDM
+	url = git@github.com:AlexRuiz7/GIDM.git
